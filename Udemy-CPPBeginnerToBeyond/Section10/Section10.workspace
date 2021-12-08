@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section10" Database="" Version="10000">
+  <Project Name="CipherChallenge" Path="CipherChallenge/CipherChallenge.project" Active="No"/>
+  <Project Name="LetterPyramid" Path="LetterPyramid/LetterPyramid.project" Active="No"/>
+  <Project Name="LetterPyramidSampleAnswer" Path="LetterPyramidSampleAnswer/LetterPyramidSampleAnswer.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="CipherChallenge" ConfigName="Debug"/>
+      <Project Name="LetterPyramid" ConfigName="Debug"/>
+      <Project Name="LetterPyramidSampleAnswer" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="CipherChallenge" ConfigName="Release"/>
+      <Project Name="LetterPyramid" ConfigName="Release"/>
+      <Project Name="LetterPyramidSampleAnswer" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
