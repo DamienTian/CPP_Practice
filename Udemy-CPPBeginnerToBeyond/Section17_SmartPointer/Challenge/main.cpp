@@ -80,7 +80,6 @@ int main() {
     return 0;
 }
 
-
 std::unique_ptr<std::vector<std::shared_ptr<Test>>> make(){
     return std::make_unique<std::vector<std::shared_ptr<Test>>>();
 }
@@ -88,7 +87,7 @@ std::unique_ptr<std::vector<std::shared_ptr<Test>>> make(){
 void fill(std::vector<std::shared_ptr<Test>> &vec, int num){
     int input;
     for(int i {0}; i < num; ++i){
-        std::cout << "Enter the first number: ";
+        std::cout << "Enter the number: ";
         std::cin >> input;
         std::shared_ptr<Test> test = std::make_shared<Test>(input);
         vec.push_back(test);
@@ -99,7 +98,7 @@ void fill(std::vector<std::shared_ptr<Test>> &vec, int num){
 
 void display(const std::vector<std::shared_ptr<Test>>& vec){
     std::cout << "=== Display ===" << std::endl;
-    for(auto t : vec){
+    for(const auto& t : vec){
         std::cout << t->get_data() << std::endl;
     }
     std::cout << "===============" << std::endl;
