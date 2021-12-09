@@ -14,5 +14,8 @@ Node::Node(int val){
 	
 Node::~Node()
 {	
+    // previous->next = this->next;
+    // next->previous = this->previous;
+    // delete this;
     std::cout << "Node Destructor called on: " << value << std::endl;
 }

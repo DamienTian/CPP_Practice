@@ -32,7 +32,7 @@ void DoubleLinkedList::forwardTraverse(){
         std::cout << traversePtr->getValue() << " ";
         traversePtr = traversePtr->getNext();
     }
-    std::cout << std::endl << "------------------------------" << std::endl;
+    std::cout << std::endl << "---------------------------------------" << std::endl;
 }
 
 void DoubleLinkedList::backwardTraverse(){
