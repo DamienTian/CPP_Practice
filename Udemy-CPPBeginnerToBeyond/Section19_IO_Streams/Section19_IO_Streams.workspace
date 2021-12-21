@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section19_IO_Streams" Database="" Version="10000">
+  <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="No"/>
+  <Project Name="StreamManipulators_FieldWidth" Path="StreamManipulators_FieldWidth/StreamManipulators_FieldWidth.project" Active="No"/>
+  <Project Name="ReadText_OnlinePractice" Path="ReadText_OnlinePractice/ReadText_OnlinePractice.project" Active="No"/>
+  <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="No"/>
+  <Project Name="Challenge3" Path="Challenge3/Challenge3.project" Active="No"/>
+  <Project Name="Challenge4" Path="Challenge4/Challenge4.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Challenge1" ConfigName="Debug"/>
+      <Project Name="StreamManipulators_FieldWidth" ConfigName="Debug"/>
+      <Project Name="ReadText_OnlinePractice" ConfigName="Debug"/>
+      <Project Name="Challenge2" ConfigName="Debug"/>
+      <Project Name="Challenge3" ConfigName="Debug"/>
+      <Project Name="Challenge4" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Challenge1" ConfigName="Release"/>
+      <Project Name="StreamManipulators_FieldWidth" ConfigName="Release"/>
+      <Project Name="ReadText_OnlinePractice" ConfigName="Release"/>
+      <Project Name="Challenge2" ConfigName="Release"/>
+      <Project Name="Challenge3" ConfigName="Release"/>
+      <Project Name="Challenge4" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
