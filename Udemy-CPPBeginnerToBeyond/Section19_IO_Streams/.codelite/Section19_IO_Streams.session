@@ -5,7 +5,7 @@
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="D:\CppLearning\Udemy-CPPBeginnerToBeyond\Section19_IO_Streams\Challenge2\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="32" Name="FirstVisibleLine"/>
       <int Value="57" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -20,7 +20,7 @@
     <TabInfo>
       <wxString Value="D:\CppLearning\Udemy-CPPBeginnerToBeyond\Section19_IO_Streams\Challenge4\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="25" Name="CurrentLine"/>
+      <int Value="15" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

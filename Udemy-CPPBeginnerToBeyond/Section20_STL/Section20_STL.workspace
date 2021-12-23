@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section20_STL" Database="" Version="10000">
+  <Project Name="Algorithms" Path="Algorithms/Algorithms.project" Active="No"/>
+  <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Algorithms" ConfigName="Debug"/>
+      <Project Name="Challenge_1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Algorithms" ConfigName="Release"/>
+      <Project Name="Challenge_1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
