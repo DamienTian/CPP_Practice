@@ -4,9 +4,23 @@
   <wxString Value="D:\CppLearning\Udemy-CPPBeginnerToBeyond\Section20_STL\Section20_STL.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="D:\CppLearning\Udemy-CPPBeginnerToBeyond\Section20_STL\Algorithms\main.cpp" Name="FileName"/>
-      <int Value="61" Name="FirstVisibleLine"/>
-      <int Value="64" Name="CurrentLine"/>
+      <wxString Value="D:\CppLearning\Udemy-CPPBeginnerToBeyond\Section20_STL\Challenge_2\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="8" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\CppLearning\Udemy-CPPBeginnerToBeyond\Section20_STL\Challenge_2\Song.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="5" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\CppLearning\Udemy-CPPBeginnerToBeyond\Section20_STL\Challenge_2\Song.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="3" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
