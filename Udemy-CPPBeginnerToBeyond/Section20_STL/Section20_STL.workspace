@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section20_STL" Database="" Version="10000">
   <Project Name="Algorithms" Path="Algorithms/Algorithms.project" Active="No"/>
-  <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="No"/>
+  <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="Yes"/>
   <Project Name="List" Path="List/List.project" Active="No"/>
-  <Project Name="Challenge_2" Path="Challenge_2/Challenge_2.project" Active="Yes"/>
+  <Project Name="Challenge_2" Path="Challenge_2/Challenge_2.project" Active="No"/>
+  <Project Name="Challenge_3" Path="Challenge_3/Challenge_3.project" Active="No"/>
+  <Project Name="Challenge_4" Path="Challenge_4/Challenge_4.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -11,6 +13,8 @@
       <Project Name="Challenge_1" ConfigName="Debug"/>
       <Project Name="List" ConfigName="Debug"/>
       <Project Name="Challenge_2" ConfigName="Debug"/>
+      <Project Name="Challenge_3" ConfigName="Debug"/>
+      <Project Name="Challenge_4" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -18,6 +22,8 @@
       <Project Name="Challenge_1" ConfigName="Release"/>
       <Project Name="List" ConfigName="Release"/>
       <Project Name="Challenge_2" ConfigName="Release"/>
+      <Project Name="Challenge_3" ConfigName="Release"/>
+      <Project Name="Challenge_4" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

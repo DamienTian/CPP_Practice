@@ -21,7 +21,7 @@ void display_menu() {
 void play_current_song(const Song &song) {
     // This function should display 
     // Playing: followed by the song that is playing
-    std::cout << "Playing: " << song.get_name() << std::endl;
+    std::cout << "Playing: " << song << std::endl;
 }
 
 void display_playlist(const std::list<Song> &playlist, const Song &current_song) {
@@ -51,7 +51,7 @@ int main() {
     bool quit = false;
     do{
         // Show playlist and option list
-        display_playlist(playlist, *current_song);
+        //display_playlist(playlist, *current_song);
         display_menu();
         
         // Take user's choice
@@ -68,12 +68,20 @@ int main() {
                 break;
             
             case 'N':
-                if(*current_song == playlist.back()){
+                if(*current_song == playlist.back()
+                    ){
                     current_song = playlist.begin();
                 }
                 else{
                     ++current_song;                    
                 }
+                
+                // Better way from Solution section:
+//                current_song++
+//                if(current_song == playlist.end()){
+//                    current_song = playlist.begin();
+//                }
+                
                 break;
             
             case 'P':

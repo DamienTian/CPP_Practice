@@ -1,0 +1,2 @@
+is_palindrome	D:\CppLearning\Udemy-CPPBeginnerToBeyond\Section20_STL\Challenge_4\main.cpp	/^bool is_palindrome(const std::string& s)$/;"	function	line:11	signature:(const std::string& s)	returns:bool 
+main	D:\CppLearning\Udemy-CPPBeginnerToBeyond\Section20_STL\Challenge_4\main.cpp	/^int main()$/;"	function	line:18	signature:()	returns:int 
